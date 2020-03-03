@@ -2,7 +2,7 @@
 _Fun and informal data analysis projects._
 
 
-### Destilling statistically significant circumstances that promote the lethality of a car accident.
+### 1. Destilling statistically significant circumstances that promote the lethality of a car accident.
 
 We use a GLM approach to find covariates that have a high influence on the odds of lethality in a car accident. We use a dataset of roughly 250000 recorded car accidents in the UK.
 
