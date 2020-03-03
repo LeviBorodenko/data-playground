@@ -1,0 +1,31 @@
+,coef,Estimate
+0,Vehicle_CategoryMotorcycle,-0.84171136518116
+1,Junction_DetailNot at junction or within 20 metres,-0.6709451176724499
+2,X1st_Point_of_ImpactDid not impact,-0.670049303466005
+3,X1st_Point_of_ImpactOffside,-0.6248265877967231
+4,Age_of_Driver8,-0.613844400786816
+5,X1st_Point_of_ImpactFront,-0.597700520130089
+6,X1st_Point_of_ImpactNearside,-0.536938565802315
+7,Age_of_Vehicle28,-0.505126413646921
+8,Age_of_Driver7,-0.46886408880796393
+9,Age_of_Vehicle23,-0.4352241092035879
+10,Age_of_Driver6,-0.391916642232628
+11,Age_of_Vehicle22,-0.374012188161508
+12,Speed_limit60,-0.36760306007167204
+13,Junction_LocationEntering roundabout,-0.352946983059306
+14,Vehicle_ManoeuvreU-turn,-0.35238041066800696
+15,Vehicle_ManoeuvreReversing,-0.347635883104745
+16,Speed_limit50,-0.320919441342258
+17,Junction_LocationLeaving main road,-0.319309111496785
+18,Age_of_Driver5,-0.298963459330924
+19,Vehicle_ManoeuvreParked,-0.284575785955786
+20,Vehicle_ManoeuvreTurning right,-0.260921942940567
+21,LightsDarkness - no lights,-0.255334395426073
+22,Speed_limit70,-0.246006268241939
+23,Age_of_Driver4,-0.241113686913663
+24,LightsDarkness - lights,-0.228581955559013
+25,Junction_LocationCleared junction or waiting/parked at junction exit,-0.228313303964613
+26,Junction_LocationLeaving roundabout,-0.222322747373495
+27,Age_of_Vehicle20,-0.20570519405073698
+28,Speed_limit40,-0.200263592041663
+29,Age_of_Vehicle18,-0.187490835443082
