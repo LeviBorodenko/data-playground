@@ -18,6 +18,4 @@ Simulating a Covid outbreak on Reddit using python.
 
 Every user commenting in a monitored thread gets his recent commenting history scanned and may infect users whose posts/comments tehy have commented. Once we have infected so many people in a subreddit that it is computationally not feasible to keep spreading on a case by case basis, a Covid SIR model takes over and simulates further spread in that subreddit.
 
-You can find the implementation for back- and fontend [here](https://github.com/LeviBorodenko/data-playground). We interact with reddit via PRAW and the fronend is build with vue.js and c3.js for the charts.
-
-Cheers!
+We interact with reddit via PRAW and the fronend is build with vue.js and c3.js for the charts.
