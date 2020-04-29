@@ -14,8 +14,8 @@ We use a GLM approach to find covariates that have a high influence on the odds 
 
 ![Result](/Reddit-Outbreak/demo.png)
 
-Simulating a Covid outbreak on Reddit using python. 
+Live diagram of a Covid19 outbreak on Reddit started from this post. By commenting in this thread, you potentially infect redditors that you have interacted in the past -- watch it spread!
 
-Every user commenting in a monitored thread gets his recent commenting history scanned and may infect users whose posts/comments tehy have commented. Once we have infected so many people in a subreddit that it is computationally not feasible to keep spreading on a case by case basis, a Covid SIR model takes over and simulates further spread in that subreddit.
+Every user commenting in a monitored thread gets their recent commenting history scanned and may infect users whose posts/comments they have commented. Once we have infected so many people in a subreddit that it is computationally not feasible to keep spreading on a case by case basis, a Covid SIR model takes over and simulates further spread in that subreddit.
 
 We interact with reddit via PRAW and the fronend is build with vue.js and c3.js for the charts.
